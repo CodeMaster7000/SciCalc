@@ -9,4 +9,8 @@ A graphical scientific calculator coded in Python, with the `tkinter` module.
 - Python 3
 - `numpy` module
 
-This can be installed simply with `pip` install numpy`.
+This can be installed simply with `pip install numpy`.
+
+## Implementation
+
+Run `python3 SciCalc.py` in a terminal if you have Python 3.
